@@ -6,6 +6,10 @@ body {
     color: black;
     font-size: 14;
 }
+table {
+    width: 100%;
+    text-align: center;
+}
 
 dl {
     font-family: Helvetica, Geneva, Arial,
