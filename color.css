@@ -49,6 +49,11 @@ ul.circulo {
     display: inline-block;
 }
 
+p1 { 
+	width: 800px; margin: 0 auto; 
+	display:block;
+}
+
 p {
     font-family: Helvetica, Geneva, Arial,
         SunSans-Regular, sans-serif;
@@ -66,7 +71,8 @@ h1 {
 }
 
 h2 {
-    color: rgb(128, 0, 96);
+    #color: rgb(128, 0, 96);
+	color: rgb(255, 255, 255);
     font-size: 15;
     text-align: center;
 }
