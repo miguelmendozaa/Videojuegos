@@ -1,5 +1,5 @@
 body {
-    background-color: rgba(137, 241, 111, 0.945);
+    background-color: rgba(182, 125, 60, 0.945);
     padding-left: 5em;
     font-family: Georgia, "Times New Roman",
         Times, serif;
@@ -112,4 +112,7 @@ h1:active {
 }
 .cabeceraPc { 
 	color: rgb(0, 0, 0); 
+}
+button {
+    color:blueviolet
 }
