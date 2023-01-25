@@ -11,14 +11,6 @@ table {
     text-align: center;
 }
 
-dl {
-    font-family: Helvetica, Geneva, Arial,
-        SunSans-Regular, sans-serif;
-    font-size: 12;
-    color: rgb(110, 0, 153);
-    text-align: center;
-}
-
 dt {
     font-weight: bold;
     text-decoration: underline;
@@ -30,38 +22,15 @@ dd {
     padding: 0 0 0.5em 0;
 }
 
-dl {
-    font-family: Helvetica, Geneva, Arial,
-        SunSans-Regular, sans-serif;
-    color: blue;
-    font-size: 10;
-}
-
-
 div.container {
     text-align: center;
 }
 
-ul.circulo {
-    list-style-type: circle;
-    padding-left: 40px;
-    text-align: center;
-    display: inline-block;
-}
 
 p1 { 
 	width: 800px; margin: 0 auto; 
 	display:block;
 }
-
-p {
-    font-family: Helvetica, Geneva, Arial,
-        SunSans-Regular, sans-serif;
-    color: black;
-    font-size: 12;
-    font-weight: bold;
-}
-
 
 h1 {
     color: rgb(128, 0, 96);
@@ -84,11 +53,6 @@ h3 {
     text-decoration: underline;
 }
 
-
-h4 {
-    color: black;
-    font-size: 10;
-    text-align: left;
 }
 
 h1:link {
@@ -110,9 +74,7 @@ h1:active {
     color: rgb(209, 9, 9);
     text-decoration: none;
 }
-.cabeceraPc { 
-	color: rgb(0, 0, 0); 
-}
+
 button {
-    color:blueviolet
+    background-color:blueviolet
 }
